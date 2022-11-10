@@ -52,7 +52,7 @@ body {
     background-color: var(--third-color);
 }
 
-.web h1 {
+.web h1, .loga h1, .photoshop h1 {
     color: var(--second-color);
     font-weight: 300;
     text-align: center;
